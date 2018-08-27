@@ -99,10 +99,19 @@ textarea {
 
 .center {
   margin: 0 auto;
+  text-align: center;
+}
+
+.button-wrapper {
+  width: 100px;
 }
 
 .block {
   display: block;
+}
+
+button.roll {
+  width: 100%;
 }
 
 
