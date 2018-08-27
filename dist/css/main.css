@@ -97,7 +97,13 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.center {
+  margin: 0 auto;
+}
 
+.block {
+  display: block;
+}
 
 
 
